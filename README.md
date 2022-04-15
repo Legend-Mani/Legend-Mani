@@ -9,6 +9,8 @@
 
 * Country = " 🇮🇳 "
 
+* State = "Bihar"
+
 * git-stats 
 
 ![alt text](https://te.legra.ph/file/ad69d21c45a70573c8b2b.jpg)
