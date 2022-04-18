@@ -19,7 +19,16 @@
 
 * git-stats 
 
-![alt text](https://te.legra.ph/file/ad69d21c45a70573c8b2b.jpg)
+<details>
+<summary>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠂</summary>
+<h2 align="center"><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
+<br>
+<br>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=theend-alpha&layout=compact&theme=midnight-purple&hide=Css">
+    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theend-alpha&layout=compact&theme=midnight-purple&hide=Css" />
+</a>
+</b></h2>  
+</details>
 
 * ⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐ 
 
