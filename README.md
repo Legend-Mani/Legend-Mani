@@ -16,8 +16,7 @@
 * Country = " 🇮🇳 "
 
 * State = "Bihar"
-
-* git-stats 
+ 
 
 <details>
 <summary>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠂</summary>
