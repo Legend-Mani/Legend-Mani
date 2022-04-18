@@ -23,8 +23,4 @@
 
 * ⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐ 
 
-[![alt text](https://te.legra.ph/file/bc64b7c2836fbc3b6259b.jpg)](https://instagram.com/alpha__ff__?igshid=YmMyMTA2M2Y=)
-
-[![alt text](https://te.legra.ph/file/0d79e059d3c83c77981a5.jpg)](https://t.me/NotReallyAlpha)
-
-[![alt text](https://te.legra.ph/file/82be27b8bdd6d9eb05db9.jpg)](https://t.me/EndStringBot)
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keshav_alpha) [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/NotReallyAlpha)
