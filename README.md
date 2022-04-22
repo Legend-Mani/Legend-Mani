@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+Bihar%E2%9C%8C%EF%B8%8F;Python%2C+Java%2C+HTML%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=530&lines=Mani+The+Legend+Coder+!!%F0%9F%98%8E;from+India+!">
 </p> 
 <br>
 
@@ -7,7 +7,7 @@
 ## • Personal Information •
 
 
-* Name = "Keshava Tripathi"
+* Name = "Mani"
 
 * Class = "college"
 
@@ -15,7 +15,7 @@
 
 * Country = " 🇮🇳 "
 
-* State = "Bihar"
+* State = "A.P"
  
 
 <details>
@@ -23,8 +23,8 @@
 <h2 align="center"><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
 <br>
 <br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=theend-alpha&layout=compact&theme=midnight-purple&hide=Css">
-    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theend-alpha&layout=compact&theme=midnight-purple&hide=Css" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Legend-Mani&layout=compact&theme=midnight-purple&hide=Css">
+    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legend-Mani&layout=compact&theme=midnight-purple&hide=Css" />
 </a>
 </b></h2>  
 </details>
