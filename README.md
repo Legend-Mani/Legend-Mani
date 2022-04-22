@@ -35,7 +35,7 @@
   <br>
   <br>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/boddumani_2_7) [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/mani_277)
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/boddumani_2_7) [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/NotReallyMani)
 
 [![Gmail](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](keshavatripathi016@gmail.com) [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@theend-alpha)</b></h2>
 
